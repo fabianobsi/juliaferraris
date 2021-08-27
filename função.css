@@ -1,0 +1,16 @@
+*{
+ margin:0;
+ padding:0;
+ font-family: Merri Weather;
+}
+ 
+ 
+.container{
+ width:990px;
+ margin: 250px auto 250px auto;
+ padding: 5px;
+}
+
+.gif{
+    text-align: center;
+}
